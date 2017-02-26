@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print(isPal("abcba"))
     print(isPal("abccc"))
     print(isPal("abbccdd"))
+    print(isPal("aabbddccsds"))
